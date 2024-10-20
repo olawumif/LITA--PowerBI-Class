@@ -1,6 +1,5 @@
 # LITA- PowerBI Class Assignment
-This is where I documented my first project while learning data analysis with incubator hub
+Project on cleaning TEXT 2-4
 
-[Screenshot (2)](https://github.com/user-attachments/assets/03a06cd3-3ce8-4247-8a63-f93c57b82b14)
-
-
+### STEPS TO TEXT CLEANING 2
+![Screenshot (2)](https://github.com/user-attachments/assets/e57618a8-4c4a-49ac-abbd-25968569829e)
